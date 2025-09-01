@@ -27,7 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="30" height="30"/>
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1001504815437852733?animated=:bool)](https://discord.com/users/1001504815437852733?animated=:bool)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1001504815437852733?theme=dark)](https://discord.com/users/1001504815437852733)
 
 
 ---
