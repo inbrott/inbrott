@@ -47,14 +47,7 @@ Jag gillar att bygga smarta lösningar, automatisera saker och hålla system **s
 </p>
 
 ---
-
-## 💬 Discord
-
-<p align="left">
-  <a href="https://discord.com/users/1001504815437852733">
-    <img src="https://lanyard.cnrad.dev/api/1001504815437852733?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=Probably%20coding..." alt="Discord Presence"/>
-  </a>
-</p>
+<a href="https://discord.com/users/1001504815437852733"> <img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/> </a>
 
 > 💡 **Backend • DevOps • Linux • Self-hosting**
 
