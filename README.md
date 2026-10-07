@@ -65,5 +65,5 @@ Jag gillar att bygga smarta lösningar, automatisera saker och hålla system **s
 ---
 
 <p align="center">
-  <i>⚡ Building, automating & keeping things running.</i>
+  <i>⚡ Building, automating & keeping things running since 2017.</i>
 </p>
