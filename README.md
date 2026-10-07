@@ -4,6 +4,12 @@
 
 Jag gillar att bygga smarta lösningar, automatisera saker och hålla system **säkra, snabba och stabila**.
 
+<p align="center">
+  <i>Programming Student @ Jensen Education</i>
+  &nbsp;&nbsp;
+  <img src="[LÄNK-TILL-LOGGAN](https://jobb.jenseneducation.se/files/Guld_2025.png)" alt="Jensen Education" width="80">
+</p>
+
 ---
 
 ## 🛠️ Tech Stack
