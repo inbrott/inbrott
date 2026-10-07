@@ -1,4 +1,4 @@
-# 👋 Hej!
+# 👋 Hej, jag heter Oscar aka frk!
 
 🧑‍💻 Jag är en **utvecklare & systemadministratör** med fokus på backend, databaser och drift.
 
