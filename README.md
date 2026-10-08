@@ -1,69 +1,127 @@
-# 👋 Hej, jag heter Oscar aka frk!
+<div align="center">
 
-🧑‍💻 Jag är en **utvecklare & systemadministratör** med fokus på backend, databaser och drift.
+# 👋 Hey, I'm Oscar
 
-Jag gillar att bygga smarta lösningar, automatisera saker och hålla system **säkra, snabba och stabila**.
+### Developer · System Administrator · DevOps Enthusiast
 
-<p align="center">
-  <i>Programming Student @ Jensen Education</i>
-  &nbsp;&nbsp;
+I build backend systems, automate infrastructure, and enjoy keeping things **secure, fast, and reliable**.
+
+[![GitHub](https://img.shields.io/badge/GitHub-inbrott-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inbrott)
+[![Discord](https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1001504815437852733)
+![Profile Views](https://komarev.com/ghpvc/?username=inbrott&style=for-the-badge&color=blueviolet)
+
+<br>
+
+🎓 **Programming Student @ Jensen Education**
+
 <img
   src="https://jobb.jenseneducation.se/files/Guld_2025.png"
   alt="Jensen Education"
-  height="20"
-  align="center"
->
-</p>
+  height="35"
+/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```yaml
+name: Oscar
+alias: frk
+github: inbrott
+role: Developer & System Administrator
+
+focus:
+  - Backend Development
+  - DevOps
+  - Linux
+  - Databases
+  - Automation
+  - Self-hosting
+
+currently_learning:
+  - Software Development
+  - Infrastructure
+  - System Architecture
+
+since: 2017
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programmering & Frontend
+### Languages
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" width="40" height="40"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-### ⚙️ Systemadministration & DevOps
+### Frontend
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="NGINX" width="40" height="40"/>
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
-### 🗄️ Databaser
+### DevOps & Infrastructure
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
-</p>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
-<a href="https://discord.com/users/1001504815437852733"> <img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/> </a>
+### Databases
 
-> 💡 **Backend • DevOps • Linux • Self-hosting**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
-<p align="center">
-  <i>⚡ Building, automating & keeping things running since 2017.</i>
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=inbrott&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inbrott&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" />
+
+</div>
+
+---
+
+## 🧠 What I'm Into
+
+```text
+🐧 Linux & Servers
+🐳 Containers & Docker
+⚙️ Infrastructure Automation
+🔐 Security & Hardening
+🗄️ Databases
+🌐 Backend Development
+🏠 Self-hosting & Homelabs
+```
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-inbrott-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inbrott)
+[![Discord](https://img.shields.io/badge/Discord-frk-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1001504815437852733)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Backend • DevOps • Linux • Self-hosting
+
+*Building, automating & keeping things running since 2017.*
+
+</div>
