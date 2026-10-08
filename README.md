@@ -81,8 +81,6 @@ since: 2017
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=inbrott&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000" />
